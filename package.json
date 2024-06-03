@@ -18,6 +18,7 @@
     "@vee-validate/yup": "^4.12.8",
     "@vueuse/core": "^10.10.0",
     "@vueuse/nuxt": "^10.10.0",
+    "dynamics.js": "^1.1.5",
     "nuxt": "^3.11.2",
     "pinia": "^2.1.7",
     "vue": "^3.4.27",
